@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routervender",
+        "uuid": 7935270,
+        "checksum": "j2xgj5"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
